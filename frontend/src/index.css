@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px
+}
+.App{
+    text-align: center;
+    background-color: gray;
+    height: 100vw;
+}
+.btn{
+    padding:20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: white;
+    font-size: 30px
+}
+.header{
+    background-color: orange;
+    height: 100px;
+}
+.cart-div img{
+    width:25px
+}
+.cart-div{
+    float: right;
+    margin:25px
+}
+.cart-div span{
+    position: absolute;
+    z-index: 5;
+    background-color: white;
+    border-radius: 50%;
+    height:20px;
+    width:20px;
+    top:10px;
+    right:24px
+
+}
